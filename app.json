@@ -12,12 +12,12 @@
     },
     "UUID": {
       "description": "用户的主ID",
-      "value": "82737694-7648-4638-8dd8-e561a37035b2",
+      "value": "17437b2d-f81e-4866-9f70-a1891352bd29",
       "required": false
     },
     "WS_PATH": {
       "description": "websocket路径",
-      "value": "/qwerasdfzxcv",
+      "value": "/iqiyi.com",
       "required": true
     }
   },
